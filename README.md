@@ -1,4 +1,7 @@
 # awesome-technology
+
+[Awesome technology wiki](https://github.com/ngEdmundas/awesome-technology/wiki)
+
 List of awesome technologies
 - https://github.com/sindresorhus/awesome
 -	https://github.com/jondot/awesome-react-native
